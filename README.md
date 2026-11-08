@@ -1,2 +1,3 @@
-# zel_spore_cursor
-Starbound mod - Spore Cursors
+Chucklefish forums died, possibly forever, so i decided to start dumping some of the Starbound mods I've released there on Github at least. To download, click the "Code" button at the top, then click Download zip, then place the zip into Starbound's mod directory. Some of the original mod names or descriptions might have been edited a little.
+
+This mod replaces the cursor with a recreation of the one from Spore, including changing the aiming reticle to keep the triangle thing in the corner, instead of having it be an actual reticle.
